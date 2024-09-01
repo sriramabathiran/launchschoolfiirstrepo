@@ -1,3 +1,4 @@
 #ignore all sqllite databases
 db/*.sqllite3
+
 .DS_Store
